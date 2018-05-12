@@ -1,0 +1,31 @@
+_repo: The-Flag-of-My-Country.-Shik-yah-Bidah-Na-at-a--Navajo-New-World-Readers-2_23424
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 23424-h/images/cover.png
+creator:
+  author:
+    agent_name: King, Cecil S.
+    gutenberg_agent_id: '25836'
+    url: http://www.gutenberg.org/2009/agents/25836
+description: ''
+gutenberg_bookshelf:
+- Native America
+- Children's Instructional Books
+gutenberg_issued: '2007-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23424'
+language:
+- nav
+- en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Navajo New World Readers, 2
+subjects:
+- !lcsh 'Flags -- United States'
+- !lcc 'PE'
+- !lcsh 'Navajo language -- Readers'
+title: The Flag of My Country = Shikéyah Bidah Na'at'a'í
+url: http://www.gutenberg.org/ebooks/23424
